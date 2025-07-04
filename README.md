@@ -5,6 +5,7 @@
 设计稿：https://lanhuapp.com/web/#/item/project/stage?pid=2a5559b7-7740-46cd-8ed6-c7e0216a1bde&image_id=d399c8c6-4ef1-4682-82c8-1a2ef6bcdb28
 
 - 后台用的是尚硅谷提供的 ./backend/backend.exe，跑程序前先运行后端
+- 沉浸式全屏效果预览器不好用（鸿蒙通病），尽量用真机或模拟器运行
 
 #### 学到的知识点
 
