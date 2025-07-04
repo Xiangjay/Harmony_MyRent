@@ -1,0 +1,60 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "bg_gray",
+      "value": "#f7f7f7"
+    },
+    {
+      "name": "bg_gray_second",
+      "value": "#f9f9f9"
+    },
+    {
+      "name": "gray_second",
+      "value": "#666666"
+    },
+    {
+      "name": "primary",
+      "value": "#36d1a1"
+    },
+    {
+      "name": "shadow",
+      "value": "#24000000"
+    },
+    {
+      "name": "black",
+      "value": "#000"
+    },
+    {
+      "name": "white",
+      "value": "#fff"
+    },
+    {
+      "name": "gray",
+      "value": "#999999"
+    },
+    {
+      "name": "tab_text_default",
+      "value": "#A0A0A0"
+    },
+    {
+      "name": "swiper_indicator_default",
+      "value": "#CCCBCB"
+    },
+    {
+      "name": "swiper_indicator_active",
+      "value": "#479559"
+    },
+    {
+      "name": "divider",
+      "value": "#D7D7D7"
+    },
+    {
+      "name": "price",
+      "value": "#E03810"
+    }
+  ]
+}
